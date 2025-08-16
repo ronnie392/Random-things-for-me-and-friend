@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(45,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(46,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(89,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(101,58): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(104,32): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(132,55): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(132,85): warning C4244: 'argument': conversion from 'time_t' to 'int', possible loss of data
+C:\dev\Learning files for c++\Project1\Project1\main.cpp(31,1): warning C4715: 'chance': not all control paths return a value
+  Project1.vcxproj -> C:\dev\Learning files for c++\Project1\x64\Debug\Project1.exe
